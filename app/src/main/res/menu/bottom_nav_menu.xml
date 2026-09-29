@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_24"
+        android:title="الرئيسية" />
+    <item
+        android:id="@+id/nav_quran"
+        android:icon="@drawable/ic_quran_24"
+        android:title="القرآن" />
+    <item
+        android:id="@+id/nav_worship"
+        android:icon="@drawable/ic_azkar_24"
+        android:title="العبادات" />
+    <item
+        android:id="@+id/nav_qibla"
+        android:icon="@drawable/ic_qibla_24"
+        android:title="القبلة" />
+    <item
+        android:id="@+id/nav_more"
+        android:icon="@drawable/ic_menu_24"
+        android:title="المزيد" />
+</menu>
